@@ -38,7 +38,7 @@ __PACKAGE__->init(do {
 =head1 DESCRIPTION
 
 This theme includes display resolution names retrieved from
-L<Display::Resolution>. Only names that start with letters and contain only
+L<Display::Resolution>. Only names that start with letters and contain solely
 letters/numbers are included. The names are lowercased.
 
 
