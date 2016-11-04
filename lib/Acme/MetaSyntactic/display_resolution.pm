@@ -30,7 +30,7 @@ __PACKAGE__->init(do {
  % perl -MAcme::MetaSyntactic=display_resolution -le 'print metaname'
  qhd
 
- % meta countries 2
+ % meta display_resolution 2
  fhd
  wxga
 
